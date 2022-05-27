@@ -1,1 +1,1 @@
-# gg_asm
+# "Guess the number" game in Assembly Language
